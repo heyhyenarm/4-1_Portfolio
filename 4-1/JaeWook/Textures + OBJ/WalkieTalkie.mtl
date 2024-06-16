@@ -1,0 +1,94 @@
+# Blender 3.4.1 MTL File: 'WalkieTalkie.blend'
+# www.blender.org
+
+newmtl Base
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd walkie2_Base_BaseColor.1001.png
+map_Pm walkie2_Base_Metallic.1001.png
+map_Pr walkie2_Base_Roughness.1001.png
+
+newmtl Buttons
+Kd 0.905633 0.905633 0.905633
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+Pr 1.000000
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_d ALPHA.png
+
+newmtl Metals
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd walkie2_Metals_BaseColor.1001.png
+map_Pm walkie2_Metals_Metallic.1001.png
+map_Pr walkie2_Metals_Roughness.1001.png
+map_Bump -bm 1.000000 walkie2_Metals_Normal.1001.png
+
+newmtl Screen
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd walkie2_Screen_BaseColor.1001.png
+map_Pr walkie2_Screen_Roughness.1001.png
+map_Ke walkie2_Screen_Emissive.1001.png
+map_Bump -bm 1.000000 walkie2_Screen_Normal.1001.png
+
+newmtl Secondary
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd walkie2_Secondary_BaseColor.1001.png
+map_Pm walkie2_Secondary_Metallic.1001.png
+map_Pr walkie2_Secondary_Roughness.1001.png
+
+newmtl third
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd walkie2_third_BaseColor.1001.png
+map_Pr walkie2_third_Roughness.1001.png

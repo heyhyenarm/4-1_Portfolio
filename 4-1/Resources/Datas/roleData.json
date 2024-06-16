@@ -1,0 +1,12 @@
+[
+    {
+        "id": 0,
+        "roleDialog": "당신은 생존자입니다",
+        "questDialog": "열쇠를 찾아 탈출하기"
+    },
+    {
+        "id": 1,
+        "roleDialog": "당신은 복수자입니다",
+        "questDialog": "생존자의 탈출을 방해하고 죽이기"
+    }
+]

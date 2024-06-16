@@ -1,0 +1,67 @@
+[
+    {
+        "id": 2000,
+        "eventType": "roundStart",
+        "dialog": "Game Start"
+    },
+    {
+        "id": 2001,
+        "eventType": "round1End",
+        "dialog": "다음 문이 열렸습니다. \n복수자가 드러납니다. "
+    },
+    {
+        "id": 2002,
+        "eventType": "round2End",
+        "dialog": "다음 문이 열렸습니다. \n복수자가 더욱 강해집니다. "
+    },
+    {
+        "id": 2003,
+        "eventType": "roleRunner",
+        "dialog": "당신은 생존자입니다"
+    },
+    {
+        "id": 2004,
+        "eventType": "roleChaser",
+        "dialog": "당신은 복수자입니다"
+    },
+    {
+        "id": 2005,
+        "eventType": "questRunner",
+        "dialog": "열쇠를 찾아 탈출하기"
+    },
+    {
+        "id": 2006,
+        "eventType": "questChaser",
+        "dialog": "생존자의 탈출을 방해하기"
+    },
+    {
+        "id": 2007,
+        "eventType": "attacked",
+        "dialog": "기절"
+    },
+    {
+        "id": 2008,
+        "eventType": "death",
+        "dialog": "사망"
+    },
+    {
+        "id": 2009,
+        "eventType": "chaserChangeOn",
+        "dialog": "복수자가 괴물로 변신하였습니다. \n모든 불이 꺼집니다. "
+    },
+    {
+        "id": 2010,
+        "eventType": "chaserChangeOff",
+        "dialog": "복수자의 변신이 풀렸습니다. "
+    },
+    {
+        "id": 2011,
+        "eventType": "gameWin",
+        "dialog": "승리"
+    },
+    {
+        "id": 2012,
+        "eventType": "gameLose",
+        "dialog": "패배"
+    }
+]

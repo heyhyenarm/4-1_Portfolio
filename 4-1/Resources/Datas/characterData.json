@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1000,
+        "name": "Frank",
+        "texturePath": "UI/Character/Frank"
+    },
+    {
+        "id": 1001,
+        "name": "Jake",
+        "texturePath": "UI/Character/Jake"
+    },
+    {
+        "id": 1002,
+        "name": "MJ",
+        "texturePath": "UI/Character/MJ"
+    }
+]
